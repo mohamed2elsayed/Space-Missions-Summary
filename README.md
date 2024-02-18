@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Space Missions Summary</title>
-</head>
 <body>
     <h1>Space Missions Summary</h1>
     <h2>Launches by Company</h2>
